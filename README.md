@@ -2,6 +2,7 @@
 Javascript projects
 
 Steps to commit your code:
+
 1.Clone the project in command line with below command
 - git clone https://github.com/mojpav/JS_Project
 - cd JS_Project
