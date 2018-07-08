@@ -13,6 +13,7 @@ Steps to commit your code:
 
 3.Commit your code to this branch
 - git add xxx.js
+- git add zzz.js
 - git commit -m"commit 1 and any description..."
 
 4.Finally push your code
